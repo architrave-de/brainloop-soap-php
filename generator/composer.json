@@ -1,0 +1,14 @@
+{
+    "name": "architrave/brainloop-soap-php-generator",
+    "description": "Generates Brainloop SOAP classes",
+    "require": {
+        "wsdltophp/packagegenerator": "^2.8"
+    },
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Michael Kühn",
+            "email": "michael.kuehn@architrave.de"
+        }
+    ]
+}

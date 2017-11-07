@@ -1,0 +1,14 @@
+{
+    "name": "architrave/brainloop-soap-php",
+    "description": "Package generated from https://my.brainloop.net/BrainloopWebService/v3/services.svc?wsdl using wsdltophp/packagegenerator",
+    "require": {
+        "php": ">=5.3.3",
+        "ext-soap": "*",
+        "wsdltophp/packagebase": "~1.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Brainloop\\Soap\\": "./src/"
+        }
+    }
+}
